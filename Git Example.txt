@@ -1,0 +1,17 @@
+git init 
+git add .
+git commit -m "index first commit"
+git branch -M main
+git remote add origin https://github.com/Shubham241097/<Git-repositery-name>.git
+git push -u origin main
+
+ create a branch ----------------------------------------------------
+
+git branch Shubham
+git checkout Shubham 
+////makes changes in code and push to your branch
+
+git add .
+git commit -m "Shubham h2 tag changes"
+git push -u origin Shubham
+
